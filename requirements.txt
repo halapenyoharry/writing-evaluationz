@@ -1,0 +1,4 @@
+textblob
+textstat
+matplotlib
+nltk
