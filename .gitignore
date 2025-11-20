@@ -1,0 +1,5 @@
+venv_novel/
+__pycache__/
+*.pyc
+*.log
+draft.txt
